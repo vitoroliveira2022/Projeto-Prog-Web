@@ -1,0 +1,2 @@
+É só rodar o comando 'mongod' no CMD do Windows e dar o comando 'node app.js' na pasta do projeto
+que tu já consegue usar !
